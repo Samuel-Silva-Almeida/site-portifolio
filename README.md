@@ -1,4 +1,4 @@
-![Logo do git](https://www.git-scm.com/images/logos/downloads/Git-Icon-White.png)
+![Logo do git](https://www.git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
 
 # Bem vindo ao curso Git e GitHub.
 Nesse cursi você vai dominar todo o **git** e **github** _do zero ao profissional_.
