@@ -10,6 +10,8 @@ Nesse cursi você vai dominar todo o **git** e **github** _do zero ao profission
 * Usando github de forma profissional.
 
 1. Começando com GIT.
+    1. O que é um git?
+    2. Instalando git na maquina.
 2. Aprendendo sobre branches.
 3. GIT avançado.
 4. Usando github de forma profissional.
