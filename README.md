@@ -4,7 +4,10 @@
 Nesse cursi você vai dominar todo o **git** e **github** _do zero ao profissional_.
 
 ## Módulos:
-_Entendendo o que é **git**, aprendendo sobre **reposotórios**, trabalhando com **branches**._
+* Começando com GIT
+* Aprendendo sobre branches
+* GIT avançado
+* Usando github de forma profissional
 
 ### Rede Social:
 [Instagram](https://www.instagram.com)
