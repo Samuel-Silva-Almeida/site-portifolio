@@ -20,3 +20,7 @@ Nesse cursi você vai dominar todo o **git** e **github** _do zero ao profission
 [Instagram](https://www.instagram.com)
 
 [Youtube](https://www.youtube.com)
+
+>Este é um blockquote, usado para destacar alguma area.
+>
+>Segunda area destacada.
