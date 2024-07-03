@@ -34,3 +34,10 @@ Nesse cursi você vai dominar todo o **git** e **github** _do zero ao profission
 ```
 npm start
 ```
+
+Propriedade | Descrição
+----------- | ---------
+Name | Informar o nome do usuário
+Size | Definir o tamanho do campo
+Background | Cor de fundo da area em HEX
+OnPres | Função chamada quando clicar no botão
